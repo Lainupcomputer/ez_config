@@ -23,7 +23,7 @@ cfg.initialise("file_path", seperator, debug) # defaults: seperator=#, debug=Fal
 ```
 add entry 
 ```sh
-cfg.add("Config_Name", "config_data") # Note: config_data can be a list and is spit with seperator
+cfg.add("Config_Name", "config_data") # Note: config_data can be a list and spited by seperator
 ```
 
 edit entry 
@@ -34,8 +34,4 @@ Get entry
 ```sh
 cfg.get("Config_Name", "config_data") # Returns Value
 ```
-## License
 
-MIT
-
-**Free Software, Hell Yeah!**
