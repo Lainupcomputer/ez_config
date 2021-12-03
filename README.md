@@ -11,9 +11,6 @@
 git clone https://github.com/Lainupcomputer/ez_config
 ```
 
-```sh
-pip install ez_config
-```
 
 ## Setup and Working with 
 Setting up:
