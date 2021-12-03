@@ -1,3 +1,7 @@
+#######################
+#   Lainupcomputer    #
+#   ez_config v1.0    #
+#######################
 import json
 
 
