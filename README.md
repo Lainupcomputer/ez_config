@@ -6,19 +6,21 @@
 - Create and handle configuration files 
 - Json compatibility
 
-## Installation 
-```sh
-git clone https://github.com/Lainupcomputer/ez_config
-```
+## 
 
 
 ## Setup and Working with 
-Setting up:
+Installation 
+```sh
+git clone https://github.com/Lainupcomputer/ez_config
+```
+move ez_config in project and import
 ```sh
 import ez_config
-
+```
+Setting up:
+```sh
 cfg = ez_config()
-
 cfg.initialise("file_path", seperator, debug) # defaults: seperator=#, debug=False 
 ```
 add entry 
