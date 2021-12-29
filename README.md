@@ -27,6 +27,10 @@ add entry
 ```sh
 cfg.add("Config_Name", "config_data") # Note: config_data can be a list and spited by seperator
 ```
+```sh
+# Add multiple 
+cfg.add(data="1:1#2:2")
+```
 
 edit entry 
 ```sh
